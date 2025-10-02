@@ -621,7 +621,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://commenttest-d8f8eizog-malan-cs-projects.vercel.app/
+  envId: https://comments.malanc43.blog
   region:
   # Use Twikoo visitor count as the page view count
   visitor: true
