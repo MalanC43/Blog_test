@@ -102,3 +102,16 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+  
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
+  hub:
+  content: true
+  content_limit: 20
+  content_limit_delim: ' '
+  order_by: -date
+  icon: https://s21.ax1x.com/2025/09/28/pVo9n9s.jpg
+  autodiscovery: true
+  template:  
