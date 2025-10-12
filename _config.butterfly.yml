@@ -50,6 +50,7 @@ code_blocks:
 social:
    fab fa-github: https://github.com/MalanC43 || Github || '#24292e'
    fas fa-envelope: mailto:15120826777@163.com || Email || '#4a7dbe'
+   fas fa-rss: https://www.malanc43.blog/atom.xml
 
 # --------------------------------------
 # Image Settings
@@ -1130,3 +1131,4 @@ CDN:
     # valine:
     # waline_css:
     # waline_js:
+rss: /atom.xml
